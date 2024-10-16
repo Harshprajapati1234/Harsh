@@ -4,7 +4,7 @@ main()
 {
     int day;
     cin >> day;
-
+    //
     switch (day)
     {
     case 1:
