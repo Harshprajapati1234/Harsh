@@ -3,12 +3,12 @@ using namespace std;
 
 main (){
 
-    int b= 10;
-    while (b < 0)
+    int b=10;
+    while (b > 0)
     {
-        cout <<  b  << "";
+        cout <<  b  << " ";
 
-        b++;
+        b--;
     } 
 
 

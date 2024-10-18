@@ -5,12 +5,14 @@ main()
 {
     int i = 0;
     int n;
-    cin >> n;
+     cout <<  "Enter the number - ";  cin >>  n ;
+   
+
 
     while (i < n)
 
     {
-        cout << i << "     ";
+        cout << i << "  ";
         i++;
         
     }
