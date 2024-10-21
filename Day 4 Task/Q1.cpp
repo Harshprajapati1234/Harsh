@@ -9,8 +9,8 @@ main()
 
     cout << "Enter the number :-  ";
     cin >> n;
-
     int i = n;
+
     do
     {
         sum+=i;
