@@ -13,6 +13,6 @@ main()
             cout << j << " ";
         }
         cout << endl;
-    }return 0;git add 
+    }return 0;
 
 }   
